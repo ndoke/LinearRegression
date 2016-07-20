@@ -1,0 +1,11 @@
+Nachiket Doke
+800878686
+
+In this assignment we have implemented linear regression using map-reduce using python interface for spark. The values of x & y co ordinates are given in input files provided on moodle.
+
+Running instructions
+- Save the input files in a folder named 'input', this would be our parameter in the running command.
+- run the beloe command in the terminal
+  spark-submit linreg.py input
+- The output can be seen in the terminal itself.
+
